@@ -1,4 +1,4 @@
-![Kamal Kumar - Business Intelligence   Data Analyst](https://user-images.githubusercontent.com/73750698/165881079-7dbd5acb-5741-4a93-bf17-803ceeb56af8.png)
+![M Kashif Ahmed - Business Intelligence   Data Analyst](https://user-images.githubusercontent.com/73750698/165881079-7dbd5acb-5741-4a93-bf17-803ceeb56af8.png)
 <h1 align="center"> M Kashif Ahmed</h1>
 <h3 align="center">A passionate Data Analyst from Bangalore, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
